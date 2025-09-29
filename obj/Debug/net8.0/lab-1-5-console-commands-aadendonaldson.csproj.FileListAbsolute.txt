@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\bin\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.exe
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\bin\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.deps.json
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\bin\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.runtimeconfig.json
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\bin\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\bin\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.pdb
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.AssemblyInfo.cs
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.sourcelink.json
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\refint\lab-1-5-console-commands-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.pdb
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\lab-1-5-console-commands-aadendonaldson.genruntimeconfig.cache
+C:\Users\User\Desktop\my-code-dir\lab-1-5-console-commands-aadendonaldson\obj\Debug\net8.0\ref\lab-1-5-console-commands-aadendonaldson.dll
